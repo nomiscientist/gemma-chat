@@ -17,8 +17,6 @@ yarn-error.log*
 *.swo
 *~
 
-.env
-.env.*
 !.env.example
 
 tsconfig.tsbuildinfo
@@ -39,3 +37,4 @@ mlx-venv/
 
 # macOS iconset intermediates (the .icns is tracked)
 build/icon.iconset/
+config.bat
